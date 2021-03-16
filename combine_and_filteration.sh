@@ -45,4 +45,3 @@ do
 done
 
 #nohup ../../../bin/combine_and_filteration.sh -b SRR1264612 -d ./UMB1465/ -p UMB1465 &
-# test
